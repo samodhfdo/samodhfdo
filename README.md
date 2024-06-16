@@ -1,13 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Samodh</h1>
 <h3 align="center">My Story</h3>
+<center>
 - 🔭 I’m currently working on **Python** <br>
 - 👯 I’m looking to collaborate on **Python** <br>
 - 🌱 I’m currently learning **Python** <br>
 - 💬 Ask me about **Html, CSS, Python, MySQL, C** <br>
 - 📫 How to reach me **samodhfernando@gmail.com** <br>
 - 📝 I regularly write articles on **https://medium.com/@samodhfernando** <br>
-- ⚡ Fun fact **I love Football, Swimming and Chocolates** <br> <br>
+- ⚡ Fun fact **I love Football, Swimming and Chocolates** </center> <br> <br>
 
 <div> <a href="https://twitter.com/Samodh_Fdo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Samodh Fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
