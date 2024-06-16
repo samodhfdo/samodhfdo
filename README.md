@@ -9,7 +9,7 @@
  📝 I regularly write articles on **https://medium.com/@samodhfernando** <br>
  ⚡ Fun fact **I love Football, Swimming and Chocolates** <br> <br>
 
-<div> <a href="https://twitter.com/Samodh_Fdo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div> <a href="https://twitter.com/Samodh_Fdo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">&nbsp;</a>
 <a href="https://www.linkedin.com/in/Samodh Fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/Samodh Fernando" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:samodhfernando@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
