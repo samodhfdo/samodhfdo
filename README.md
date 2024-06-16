@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Samodh</h1>
 <h3 align="center">My Story</h3>
 <center>
- 🔭 I’m currently working on **Python** <br>
+ 🔭 I’m currently working on **Python** </center> <br>
  👯 I’m looking to collaborate on **Python** <br>
  🌱 I’m currently learning **Python** <br>
  💬 Ask me about **Html, CSS, Python, MySQL, C** <br>
