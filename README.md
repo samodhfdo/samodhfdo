@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="C:\Users\Samodh Fernando\Downloads\ezgif-5-243932e057-removebg-preview (2)" width="100%" />
 <h1 align="center">Hi 👋, I'm Samodh</h1>
 <h3 align="center">My Story</h3>
  🔭 I’m currently working on **Python** <br>
