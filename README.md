@@ -7,8 +7,8 @@
  🌱 I’m currently learning **Python** <br>
  💬 Ask me about **Html, CSS, Python, MySQL, C** <br>
  📫 How to reach me **samodhfernando@gmail.com** <br>
- ⚡ Fun fact **I love Football, Swimming and Chocolates** <br> <br>
-
+ ⚡ Fun fact **I love Football, Swimming and Chocolates** <br> <br></p>
+<p align="center">
 <div> <a href="https://twitter.com/Samodh_Fdo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Samodh Fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/Samodh Fernando" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
