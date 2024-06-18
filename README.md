@@ -1,4 +1,11 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7OvXqkk_MKK1VmIRpzNFVbw7FzkTHG5NkjExbeBaDuSxSl0rpJDpMEOlwquS8beuaBk7F5ULhaleczQLJeGdaSGRzCGHWaSwa4vVNuboDQETTEgzFThuAO9qo3HPSMgWrQXJrmYLInViUsLcTBCCUoEIqXi5f8xLdoHf_ltlxXbxdLt70C5QyXZfqmtqS/s666/ezgif-5-243932e057-removebg-preview%20(2).png" width="30%"/>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7OvXqkk_MKK1VmIRpzNFVbw7FzkTHG5NkjExbeBaDuSxSl0rpJDpMEOlwquS8beuaBk7F5ULhaleczQLJeGdaSGRzCGHWaSwa4vVNuboDQETTEgzFThuAO9qo3HPSMgWrQXJrmYLInViUsLcTBCCUoEIqXi5f8xLdoHf_ltlxXbxdLt70C5QyXZfqmtqS/s666/ezgif-5-243932e057-removebg-preview%20(2).png" style="width:30;"/>
 <h1 align="center">Hi 👋, I'm Samodh</h1>
 <h3 align="center">My Story</h3>
  🔭 I’m currently working on **Python** <br>
