@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Samodh</h1>
 <h3 align="center">My Story</h3><p align="center">
  🔭 I’m currently working on Python based projects <br>
- 👯 I’m looking to collaborate on advanced python projects <br>
- 🌱 I’m currently learning computer science <br>
+ 👯 I’m looking to collaborate on advanced Python projects <br>
+ 🌱 I’m currently learning Computer Science <br>
  💬 Ask me about *Html, CSS, Python, MySQL, C* <br>
  📫 How to reach me samodhfernando@gmail.com <br>
  ⚡ Fun fact {I love Football, Swimming and Chocolates} <br> <br></p>
